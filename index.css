@@ -1,0 +1,45 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.screen{
+  height:  70px; 
+ width: 98%;
+ border: 3px solid red;
+ font-size: 30px;
+ display: flex;
+ align-content: center;
+ align-items: center;
+ justify-content: center;
+ color: yellow;
+ background-color: black;
+    
+}
+
+.button{
+ margin-top: 20px; 
+ margin-left: 12px;  
+ 
+ 
+   
+}
+
+.btn{
+ height: 30px;
+ width:  50px;  
+ font-size: 20px;
+ margin-top: 4px;
+ background-color: red;
+ color: white;
+}
+
+.clear{
+margin-left:70px;     
+height: 30px;
+width:  120px;
+margin-top: 8px;    
+}
+
+
+
